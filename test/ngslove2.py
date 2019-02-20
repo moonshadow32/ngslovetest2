@@ -21,8 +21,6 @@ class NgsLoveSearch(unittest.TestCase):
         driver = self.driver
         driver.get("https://love.ngs.ru")
         assert u"Бесплатный сайт знакомств в Новосибирске - НГС Знакомства" in driver.title
-        person = driver.find_element_by_css_selector("#lv-page-wrap > div.lv-content-wrap > div.lv-main-menu__submenu.search > form > div.lv-search__first-string > div.lv-search__sex > div > ul > li.lv-segment-ctrl__segment.lv-segment-ctrl__segment_first > label")
-        person.click()
         from_age = driver.find_element_by_id("from-age")
         from_age.send_keys(Keys.CONTROL, "a")
         from_age.send_keys(Keys.DELETE)

@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2ef711a-5421-480b-9a3a-ae4a3b571390" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ngslove2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/ngslove2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../env_test/bin/activate" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../env_test/bin/activate.csh" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../env_test/bin/activate.fish" beforeDir="false" />
@@ -666,8 +668,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/ngslove2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+            <state relative-caret-position="330">
+              <caret line="22" column="91" selection-start-line="22" selection-start-column="91" selection-end-line="22" selection-end-column="91" />
+              <folding>
+                <element signature="e#27#42#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -682,7 +687,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -707,8 +712,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -907,21 +912,15 @@
     <entry file="file://$PROJECT_DIR$/../testngs/test1/test1.py" />
     <entry file="file://$PROJECT_DIR$/../testngs/1/test1/test1v1.py" />
     <entry file="file://$PROJECT_DIR$/../testngs/1/test1/test1.py" />
-    <entry file="file://$PROJECT_DIR$/test/login_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-          <folding>
-            <element signature="e#48#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test/login_test.py" />
     <entry file="file://$PROJECT_DIR$/test/ngslove1.py" />
     <entry file="file://$PROJECT_DIR$/test/ngslove2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        <state relative-caret-position="330">
+          <caret line="22" column="91" selection-start-line="22" selection-start-column="91" selection-end-line="22" selection-end-column="91" />
+          <folding>
+            <element signature="e#27#42#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
